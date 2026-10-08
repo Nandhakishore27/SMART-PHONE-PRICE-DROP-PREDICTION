@@ -1,4 +1,4 @@
-# 📱 Smartphone Price Drop Prediction
+📱 Smartphone Price Drop Prediction
 
 A Machine Learning project that predicts the expected price drop of smartphones based on their features.
 
